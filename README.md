@@ -13,4 +13,4 @@ Fork and then pull requests
 
 ### Copyright 
 
-2023 Copyright
+2023 Copyright All rights reserved
