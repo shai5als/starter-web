@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ### How to contribute 
+Fork and then pull requests 
 
 ### Copyright 
 
